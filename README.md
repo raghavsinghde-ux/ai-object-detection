@@ -4,30 +4,30 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-# 🎯 AI Real-Time Object Detection (YOLOv8 + OpenCV)
+#  AI Real-Time Object Detection (YOLOv8 + OpenCV)
 
 A real-time computer vision project that detects objects using a webcam feed with YOLOv8 and OpenCV.
 
 ---
 
-## 🚀 Features
+##  Features
 - Real-time object detection via webcam 🎥
-- Bounding box visualization 📦
-- Confidence score display 📊
-- Fast inference using YOLOv8m model ⚡
+- Bounding box visualization 
+- Confidence score display 
+- Fast inference using YOLOv8m model 
 - Clean and lightweight Python implementation
 
 ---
 
-## 🧠 Tech Stack
-- Python 🐍
-- OpenCV 👁️
-- Ultralytics YOLOv8 🤖
+##  Tech Stack
+- Python 
+- OpenCV 
+- Ultralytics YOLOv8 
 
 ---
 
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/ai-object-detection.git
